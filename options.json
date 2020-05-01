@@ -1,0 +1,52 @@
+{
+  "options": {
+    "LinearAlgebra": [
+      {
+        "id": 0.1,
+        "name": "Matrix determinant",
+        "function": "find_determinant_matrix"
+      },
+      {
+        "id": 0.2,
+        "name": "Multiply matrices",
+        "function": "multiply_matrices"
+      }
+    ],
+    "Calculus": [
+      {
+        "id": 0.1,
+        "name": "Find roots of functions",
+        "function": "find_root_equations"
+      }
+    ],
+    "Mechanics": [
+      {
+        "id": 0.1,
+        "name": "Plot failure theories diagram",
+        "function": "FailureTheoriesPlotter"
+      },
+      {
+        "id": 0.2,
+        "name": "Buckling calculator",
+        "function": "BucklingCalculator"
+      },
+      {
+        "id": 0.3,
+        "name": "Plot shear and moments diagram",
+        "function": "ShearAndMomentsPlotter"
+      }
+    ],
+    "DataStructures": [
+      {
+        "id": 0.1,
+        "name": "Check an insert-delete sequence in a priority queue",
+        "function": "PriorityQueueInsertDeleteSequenceChecker"
+      },
+      {
+        "id": 0.2,
+        "name": "Show step-by-step of a sorting algorithm",
+        "function": "StepByStepSortingChecker"
+      }
+    ]
+  }
+}

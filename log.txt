@@ -1,0 +1,126 @@
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 06:18:41 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 06:18:41 PM  GMT+5 (Error code: 2): The number of given values is different from the matrix dimension.
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 10:45:38 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 10:45:38 PM  GMT+5 (Error code: 1): Function FailureTheoriesPlotter does not exist.
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 10:47:44 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 10:47:44 PM  GMT+5 (Error code: 1): Function FailureTheoriesPlotter does not exist.
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 10:49:48 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 10:49:48 PM  GMT+5 (Error code: 1): Function FailureTheoriesPlotter does not exist.
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 10:50:22 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 10:50:22 PM  GMT+5 (Error code: 1): Function FailureTheoriesPlotter does not exist.
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 10:51:44 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 10:51:44 PM  GMT+5 (Error code: 1): Function FailureTheoriesPlotter does not exist.
+Tuesday, 07 Apr 2020 10:52:30 PM  GMT+5 (Error code: 0): Picked option  not found.
+Tuesday, 07 Apr 2020 10:52:36 PM  GMT+5 (Error code: 1): Function FailureTheoriesPlotter does not exist.
+Tuesday, 07 Apr 2020 10:52:46 PM  GMT+5 (Error code: 0): Picked option qui not found.
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 11:01:04 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 11:01:04 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: floatand got: fds
+Tuesday, 07 Apr 2020 11:01:07 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: floatand got: 45g
+Tuesday, 07 Apr 2020 11:01:46 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: floatand got: safd
+Tuesday, 07 Apr 2020 11:01:55 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: intand got: asdf
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 11:07:55 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 11:07:55 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: int+ and got: -4321
+Tuesday, 07 Apr 2020 11:08:04 PM  GMT+5 (Error code: 2): The number of values separated by a comma must be 2. Error occurred in: FailureTheoriesPlotter.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 07 Apr 2020 11:24:56 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 07 Apr 2020 11:24:56 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: int+ and got: 2, 2. Error occurred in: FailureTheoriesPlotter.py
+Tuesday, 07 Apr 2020 11:24:57 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: int+ and got: 3, 4. Error occurred in: FailureTheoriesPlotter.py
+Tuesday, 07 Apr 2020 11:24:59 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: int+ and got: 6, 4. Error occurred in: FailureTheoriesPlotter.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Wednesday, 08 Apr 2020 12:22:53 AM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Wednesday, 08 Apr 2020 12:22:53 AM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float and got: . Error occurred in: FailureTheoriesPlotter.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Wednesday, 08 Apr 2020 12:25:54 AM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Wednesday, 08 Apr 2020 12:25:54 AM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float+ and got: -312. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 12:26:10 AM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float+ and got: 312. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 12:26:12 AM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float+ and got: 312. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 12:26:14 AM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float+ and got: 213. Error occurred in: FailureTheoriesPlotter.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Wednesday, 08 Apr 2020 12:26:42 AM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Wednesday, 08 Apr 2020 12:26:42 AM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float+ and got: -123. Error occurred in: FailureTheoriesPlotter.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Wednesday, 08 Apr 2020 12:28:48 AM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Wednesday, 08 Apr 2020 12:28:48 AM  GMT+5 (Error code: 0): Picked option  not found.
+---------------------------------------------------------------------------------------------------------------
+Log created on Wednesday, 08 Apr 2020 04:47:22 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Wednesday, 08 Apr 2020 04:47:22 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float+ and got: . Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 04:47:25 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float+ and got: 12sa. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 04:47:26 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: float+ and got: fds. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 04:49:30 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: [1, 2, 3] and got: . Error occurred in: EntryManager.py
+Wednesday, 08 Apr 2020 04:49:30 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: [1, 2, 3] and got: . Error occurred in: EntryManager.py
+Wednesday, 08 Apr 2020 04:49:30 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: [1, 2, 3] and got: . Error occurred in: EntryManager.py
+Wednesday, 08 Apr 2020 04:49:31 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: [1, 2, 3] and got: . Error occurred in: EntryManager.py
+Wednesday, 08 Apr 2020 04:49:31 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: [1, 2, 3] and got: weqr. Error occurred in: EntryManager.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Wednesday, 08 Apr 2020 04:50:26 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Wednesday, 08 Apr 2020 04:50:26 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: [1, 2, 3] and got: . Error occurred in: EntryManager.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Wednesday, 08 Apr 2020 04:53:31 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Wednesday, 08 Apr 2020 04:53:31 PM  GMT+5 (Error code: 2): 	The number of values separated by a comma must be 2. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 04:53:35 PM  GMT+5 (Error code: 2): Invalid entry. Expected: float. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 04:53:41 PM  GMT+5 (Error code: 2): 	The number of values separated by a comma must be 2. Error occurred in: FailureTheoriesPlotter.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Wednesday, 08 Apr 2020 05:00:29 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Wednesday, 08 Apr 2020 05:00:29 PM  GMT+5 (Error code: 2): 	The number of values separated by a comma must be 2. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 05:00:31 PM  GMT+5 (Error code: 0): An unexpected error ocurred.. Error occurred in: FailureTheoriesPlotter.py
+Wednesday, 08 Apr 2020 05:00:37 PM  GMT+5 (Error code: 0): An unexpected error ocurred.. Error occurred in: FailureTheoriesPlotter.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Saturday, 11 Apr 2020 02:31:11 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Saturday, 11 Apr 2020 02:31:11 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['max', 'min'] and got: maxdsaf. Error occurred in: EntryManager.py
+Saturday, 11 Apr 2020 02:35:37 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['max', 'min'] and got: . Error occurred in: EntryManager.py
+Saturday, 11 Apr 2020 02:35:37 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['max', 'min'] and got: . Error occurred in: EntryManager.py
+Saturday, 11 Apr 2020 02:35:37 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['max', 'min'] and got: . Error occurred in: EntryManager.py
+Saturday, 11 Apr 2020 02:35:38 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['max', 'min'] and got: . Error occurred in: EntryManager.py
+Saturday, 11 Apr 2020 02:35:38 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['max', 'min'] and got: q. Error occurred in: EntryManager.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Monday, 13 Apr 2020 05:10:07 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Monday, 13 Apr 2020 05:10:07 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['str, float, int, mixed'] and got: int. Error occurred in: EntryManager.py
+Monday, 13 Apr 2020 05:10:14 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['str, float, int, mixed'] and got: float. Error occurred in: EntryManager.py
+Monday, 13 Apr 2020 05:10:17 PM  GMT+5 (Error code: 2): Invalid entry. Expected any of: ['str, float, int, mixed'] and got: . Error occurred in: EntryManager.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 21 Apr 2020 09:34:30 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 21 Apr 2020 09:34:30 PM  GMT+5 (Error code: 0): Picked option  not found.
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 21 Apr 2020 09:34:45 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 21 Apr 2020 09:34:45 PM  GMT+5 (Error code: 2): Invalid entry, could not perform parsing. Expected: int+ and got: -1. Error occurred in: ShearAndMomentsPlotter.py
+Tuesday, 21 Apr 2020 09:34:47 PM  GMT+5 (Error code: 2): 	The number of values separated by a comma must be 2. Error occurred in: ShearAndMomentsPlotter.py
+Tuesday, 21 Apr 2020 09:34:48 PM  GMT+5 (Error code: 2): 	The number of values separated by a comma must be 2. Error occurred in: ShearAndMomentsPlotter.py
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 21 Apr 2020 09:39:25 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 21 Apr 2020 09:39:25 PM  GMT+5 (Error code: 0): Picked option 	 not found.
+---------------------------------------------------------------------------------------------------------------
+Log created on Tuesday, 21 Apr 2020 09:44:01 PM  GMT+5
+---------------------------------------------------------------------------------------------------------------
+Tuesday, 21 Apr 2020 09:44:01 PM  GMT+5 (Error code: 0): Picked option  not found.
+Tuesday, 21 Apr 2020 09:44:01 PM  GMT+5 (Error code: 0): Picked option  not found.
+Tuesday, 21 Apr 2020 09:44:01 PM  GMT+5 (Error code: 0): Picked option  not found.
